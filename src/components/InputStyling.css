@@ -1,0 +1,22 @@
+.stockInput {
+  display: flex;
+
+  column-gap: 12px;
+  align-items: left;
+  text-align: left;
+}
+
+.stockInput input {
+  height: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: grey;
+  padding-left: 10px;
+}
+
+.stockInput button {
+  height: 55px;
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+}
